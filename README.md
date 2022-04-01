@@ -5,7 +5,6 @@ Resnet18 is applied to industrial data to classify data mixed with outliers.
 <br></br>
 
 ## Anomaly classifiaction using resnet18
----
 The most important thing in the industrial field is to detect defective products early and deliver high-quality products. To this end, many technologies have been developed to detect defective products (outlier products) in advance, and recently, methods using deep learning have also been actively studied.
 <br></br>
 
@@ -17,5 +16,4 @@ In the future, when similar tasks are given, they also serve as performance reco
 <br></br>
 
 ## Performance evaluation 
----
 Wandb, an MLOps tool for deep learning, was used to measure performance. In addition, we tried to find the best combination of performance in multiple hyperparameter spaces using sweep, a hyperparameter tuning tool.
